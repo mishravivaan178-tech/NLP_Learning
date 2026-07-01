@@ -1,0 +1,6 @@
+nltk
+numpy
+scikit-learn
+
+
+libraries which you need to make this 
