@@ -106,35 +106,7 @@ Machine learning helps researchers discover new medicines.
 
 ---
 
-## 📦 Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/Text-Summarizer-TFIDF.git
-```
-
-Move into the project directory:
-
-```bash
-cd Text-Summarizer-TFIDF
-```
-
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the notebook:
-
-```bash
-jupyter notebook text_summarizer.ipynb
-```
-
-Or open the notebook in **Google Colab**.
-
----
 
 ## 📚 NLP Concepts Used
 
